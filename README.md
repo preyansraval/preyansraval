@@ -5,3 +5,7 @@
 ![members page after login](https://user-images.githubusercontent.com/35058763/34520540-12936c32-f0af-11e7-9bfe-7988829b0486.png)
 3.This is the activity page where a user can track all their activities.
 ![activity](https://user-images.githubusercontent.com/35058763/34520551-200ec866-f0af-11e7-8369-8763fdf8cc97.png)
+4.User can add a friend in their account by sending request to the other user and also can interact with them.
+![add_friend](https://user-images.githubusercontent.com/35058763/34520815-94224a88-f0b0-11e7-80d2-84c6b965a291.png)
+5.Recieved request will be shown like this on the account of a user.
+![friend_request_recieved](https://user-images.githubusercontent.com/35058763/34520828-9f5d6c52-f0b0-11e7-849b-b6c07b379ded.png)
