@@ -9,3 +9,7 @@
 ![add_friend](https://user-images.githubusercontent.com/35058763/34520815-94224a88-f0b0-11e7-80d2-84c6b965a291.png)
 5.Recieved request will be shown like this on the account of a user.
 ![friend_request_recieved](https://user-images.githubusercontent.com/35058763/34520828-9f5d6c52-f0b0-11e7-849b-b6c07b379ded.png)
+6.This is how the profile of a user looks like.
+![profile of user](https://user-images.githubusercontent.com/35058763/34523969-bf3c0380-f0bf-11e7-8739-b308e1d96844.png)
+7.Users can create groups also consisting of the members that are their friends.Also they can communicate with each other using messages, comments and posts.
+![groups page](https://user-images.githubusercontent.com/35058763/34523951-a80684f6-f0bf-11e7-871a-28e93961e822.png)
