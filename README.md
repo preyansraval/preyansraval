@@ -13,3 +13,5 @@
 ![profile of user](https://user-images.githubusercontent.com/35058763/34523969-bf3c0380-f0bf-11e7-8739-b308e1d96844.png)
 7.Users can create groups also consisting of the members that are their friends.Also they can communicate with each other using messages, comments and posts.
 ![groups page](https://user-images.githubusercontent.com/35058763/34523951-a80684f6-f0bf-11e7-871a-28e93961e822.png)
+8.Any messages related things will be shown here in the message section of the website.
+![messages](https://user-images.githubusercontent.com/35058763/34524220-b1e755a8-f0c0-11e7-9686-07838b4b9fc1.png)
